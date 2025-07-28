@@ -19,3 +19,5 @@ This project uses supervised machine learning to predict and analyze agency loss
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
+
+## See Final Project.ipynb for full project code
